@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "827858619278",
+    "firebase_url": "https://plantdetector-d9086-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "plantdetector-d9086",
+    "storage_bucket": "plantdetector-d9086.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827858619278:android:7b9359e95bcac7be1e32df",
+        "android_client_info": {
+          "package_name": "com.example.plantDetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827858619278-vc5b1du1jra6ijqhu9t68mft8pjgqt04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU6K8XyXZ_0Yqhu0RPJ1AVCqjjZUQ8UJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827858619278-vc5b1du1jra6ijqhu9t68mft8pjgqt04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

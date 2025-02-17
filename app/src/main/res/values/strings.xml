@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Plant Detector</string>
+    <string name="tv_placeholder">Сделайте или выберите фотографию</string>
+
+    <string name="camera">Камера</string>
+    <string name="gallery">Галерея</string>
+
+    <string name="plant">Растение</string>
+    <string name="disease">Болезнь</string>
+
+    <string name="image_name">Название файла</string>
+</resources>
